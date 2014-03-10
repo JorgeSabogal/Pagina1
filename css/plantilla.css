@@ -1,0 +1,16 @@
+#silver{
+	background-color:silver;
+	}
+#centrado{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	padding: 0,5%;
+}
+#margen{
+margin: 1% auto;
+}
+#margenbtn{
+	margin-top: 60px;
+	
+}
